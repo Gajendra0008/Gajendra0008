@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gajendrasingh Rajpurohit</h1>
+<h1 align="center">Hi 👋, I'm Gajendra Rajpurohit</h1>
 <h3 align="center">I am a passionate software developer with extensive experience in building scalable, high-performance applications using Node.js, MongoDB, and PostgreSQL. Proficient in AWS for deploying cloud solutions, I also develop cross-platform mobile apps with Flutter and dynamic web applications using React.js. Additionally, I utilize Docker for containerization, ensuring consistent and efficient development and deployment processes</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizwan-khan786&label=Profile%20views&color=0e75b6&style=flat" alt="rizwan-khan786" /> </p>
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Backend,AWS,Flutter,Data Analysis**
 
-- 📫 How to reach me **rizwanikhan63@gmail.com**
+- 📫 How to reach me **gajendra9029729923@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
