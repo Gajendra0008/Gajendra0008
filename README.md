@@ -3,15 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizwan-khan786&label=Profile%20views&color=0e75b6&style=flat" alt="rizwan-khan786" /> </p>
 
-- 🔭 I’m currently working on **Government Projects**
-
-- 🌱 I’m currently learning **NextJs and SwiftUI**
-
-- 👯 I’m looking to collaborate on **Backend**
-
-- 🤝 I’m looking for help with **DevOps**
-
-- 💬 Ask me about **Backend,AWS,Flutter,Data Analysis**
+- 💬 Ask me about **AWS,Data Analysis**
 
 - 📫 How to reach me **gajendra9029729923@gmail.com**
 
