@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gajendra Rajpurohit</h1>
-<h3 align="center">📊 Data Analyst | Python | SQL | Power BI | Tableau | Excel
+<h3 align="center">📊 Data Analyst | Python | SQL | Power BI | Tableau | Excel.
 Passionate about data cleaning, visualization, and transforming complex datasets into clear insights.
 Currently building projects to strengthen my analytics and business intelligence skills.</h3>
 
