@@ -5,7 +5,7 @@ Currently building projects to strengthen my analytics and business intelligence
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizwan-khan786&label=Profile%20views&color=0e75b6&style=flat" alt="rizwan-khan786" /> </p>
 
-- 💬 Ask me about **AWS,Data Analysis**
+- 💬 Ask me about **Data Analysis,AWS,SQL,Python,Power BI,Tableau,Excel**
 
 - 📫 How to reach me **gajendra9029729923@gmail.com**
 
