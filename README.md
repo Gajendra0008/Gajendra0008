@@ -5,8 +5,7 @@
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 📍 Mumbai, India  
-📧 **Email:** gajendra9029729923@gmail.com  
-📱 **Phone:** 7798934041  
+📧 **Email:** gajendra9029729923@gmail.com 
 
 ---
 
